@@ -16,7 +16,7 @@ A **Google Certified Data Analyst** with a degree in Chemical Engineering from T
       - Power BI
       - Google Data Studio
 
-- 📫 Feel free to connect with me here!
+📫 Feel free to connect with me here!
 
       https://www.linkedin.com/in/mohamadfitriazraai/
 
